@@ -1,0 +1,43 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  background-color: pink;
+}
+
+.vid{
+  width: 20vh; 
+  padding: 10px;
+  border : 2px solid #222;
+  border-radius: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 95px;
+  margin-top: 40px;
+}
+
+.text{
+  text-align: center;
+  margin: 35px;
+  margin-bottom:5px;
+  font-family : times new roman;
+}
+
+.btn{
+  text-align: center;
+  padding: 15px 30px;
+  margin-left: 21%;
+  font-size: 30px;
+  border: none;
+  border-radius:25px;
+  background-color: #ffff;
+  color : pink;
+  box-shadow: -3px -3px 5px #f9f9f9, 6px 6px 10px #00000026;
+  margin-bottom: 20px;
+}
+
+
+
